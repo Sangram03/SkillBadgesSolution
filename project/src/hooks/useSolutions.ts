@@ -258,7 +258,7 @@ sudo chmod +x techcps.sh
       dateAdded: "2024-12-07"
     },
     {
-      "id": "13",
+      "id": "14",
       "badgeName": "Analyze data with Gemini assistance",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
@@ -270,7 +270,7 @@ sudo chmod +x techcps.sh
       dateAdded: "2024-12-07"
     },
     {
-      "id": "14",
+      "id": "15",
       "badgeName": "Analyze data with Gemini assistance",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
@@ -284,7 +284,7 @@ sudo chmod +x techcps.sh
       dateAdded: "2024-12-07"
     },
     {
-      "id": "15",
+      "id": "16",
       "badgeName": "mini lab : Cloud Storage : 1",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
@@ -296,7 +296,7 @@ sudo chmod +x techcps.sh
       dateAdded: "2024-12-07"
     },
     {
-      "id": "16",
+      "id": "17",
       "badgeName": "mini lab : Cloud Storage : 2",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
@@ -308,7 +308,7 @@ sudo chmod +x techcps.sh
       dateAdded: "2024-12-07"
     },
     {
-      "id": "17",
+      "id": "18",
       "badgeName": "Secure BigLake Data: Challenge Lab",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
@@ -320,8 +320,8 @@ sudo chmod +x techcps129.sh
       dateAdded: "2024-12-07"
     },
     {
-      "id": "18",
-      "badgeName": "[2004]Secure BigLake Data: Challenge Lab",
+      "id": "19",
+      "badgeName": "2004Secure BigLake Data: Challenge Lab",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
       "code": `SELECT * EXCEPT(zip, latitude, ip_address, longitude) FROM `REPLACE_YOUR_PROJECT_ID.online_shop.user_online_sessions` LIMIT 1000`,
