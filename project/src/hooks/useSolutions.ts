@@ -347,7 +347,73 @@ sudo chmod +x gsp004.sh
     
       addedBy: "Techcps",
       dateAdded: "2024-12-07"
+    },
+    {
+      "id": "21",
+      "badgeName": "Creating a Virtual Machine",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20a%20Virtual%20Machine/gsp001.sh
+
+sudo chmod +x gsp001.sh
+
+./gsp001.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "22",
+      "badgeName": "Creating a Persistent Disk",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20a%20Persistent%20Disk/gsp004.sh
+
+sudo chmod +x gsp004.sh
+
+./gsp004.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "23",
+      "badgeName": "Hosting a Web App on Google Cloud Using Compute Engine",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/gsp662-1.sh
+
+sudo chmod +x gsp662-1.sh
+
+./gsp662-1.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "24",
+      "badgeName": "The Basics of Google Cloud Compute: Challenge Lab",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `
+      # Create a bucket
+      export ZONE=
+      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/The%20Basics%20of%20Google%20Cloud%20Compute%20Challenge%20Lab/arc120.sh
+
+sudo chmod +x arc120.sh
+
+./arc120.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
     }
+    
     
     
 ];
