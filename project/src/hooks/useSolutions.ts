@@ -170,6 +170,30 @@ sudo chmod +x techcps.sh
     
       addedBy: "Techcps",
       dateAdded: "2024-12-07"
+    },
+    {
+      "id": "7",
+      "badgeName": "mini lab : Cloud Storage : 6",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP/master/mini%20lab%20%3A%20Cloud%20Storage%20%3A%203/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "7",
+      "badgeName": "Explore an Ecommerce Dataset with SQL in BigQuery",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Exploring%20Your%20Ecommerce%20Dataset%20with%20SQL%20in%20Google%20BigQuery/techcpsgsp407.sh
+sudo chmod +x techcpsgsp407.sh
+./techcpsgsp407.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
     }
     
     
