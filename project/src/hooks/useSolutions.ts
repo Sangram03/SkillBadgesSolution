@@ -50,37 +50,56 @@ chmod +x ApiExplorer.sh
     
     
     `,
-      "addedBy": "Sangram Das",
-      "dateAdded": "2024-12-07"
+      
+      addedBy: "Sangram Das",
+      dateAdded: "2024-12-07"
     },
     
-  {
-    id: '3',
-    badgeName: 'Web Development',
-    solution: 'https://github.com/example/web-dev-solution',
-    difficulty: 'Easy',
-    code: `// Basic React Component
-import React from 'react';
-
-function TodoList() {
-  const [todos, setTodos] = useState([]);
-  
-  const addTodo = (text) => {
-    setTodos([...todos, { text, completed: false }]);
-  };
-  
-  return (
-    <div>
-      <h1>Todo List</h1>
-      {todos.map((todo, index) => (
-        <div key={index}>{todo.text}</div>
-      ))}
-    </div>
-  );
-}`,
-    addedBy: 'Admin',
-    dateAdded: '2024-03-16',
-  },
+    {
+      "id": "3",
+      "badgeName": "The Arcade Trivia December 2024 Week 3",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Medium",
+      "code": `// Correct answers for IAM roles and Cloud commands:
+    
+    // ---
+    
+    // ### 1. IAM Role to create objects, folders, and managed folders:
+    // Answer: Storage Object Creator
+    
+    // ---
+    
+    // ### 2. IAM Role for full object and folder management (create, view, update, delete):
+    // Answer: Object Admin
+    
+    // --- 
+    
+    // ### 3. IAM Role to grant read-only access to a Cloud Storage data lake for BigQuery:
+    // Answer: Storage Object Viewer
+    
+    // --- 
+    
+    // ### 4. IAM Role for complete management capabilities over objects and folders:
+    // Answer: Storage Object Admin
+    
+    // --- 
+    
+    // ### 5. Google Cloud's generative AI-powered assistance for users:
+    // Answer: Gemini
+    
+    // --- 
+    
+    // ### 6. Command to enable the Cloud AI Companion API for Gemini:
+    // Answer: gcloud services enable
+    
+    // ---
+    
+    // These answers help you understand IAM roles and their relevance in managing Google Cloud resources effectively. Let me know if you need further clarification!`,
+    
+      addedBy: "Sangram Das",
+      dateAdded: "2024-12-07"
+    }
+    
 ];
 
 export const useSolutions = () => {
