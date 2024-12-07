@@ -562,7 +562,821 @@ sudo chmod +x arc132.sh
     
       addedBy: "Techcps",
       dateAdded: "2024-12-07"
+    },
+    {
+      "id": "34",
+      "badgeName": "Speech-to-Text API: Qwik Start",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export API_KEY=
+      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Google%20Cloud%20Speech-to-Text%20API%20Qwik%20Start/gsp119.sh
+
+sudo chmod +x gsp119.sh
+
+./gsp119.sh
+      `,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "35",
+      "badgeName": "Speaking with a Webpage - Streaming Speech Transcripts",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125-1.sh
+
+sudo chmod +x gsp125-1.sh
+
+./gsp125-1.sh
+#CloudShell New Tab
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125-2.sh
+
+sudo chmod +x gsp125-2.sh
+
+./gsp125-2.sh
+#CloudShell Previous Tab
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125-3.sh
+
+sudo chmod +x gsp125-3.sh
+
+./gsp125-3.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "36",
+      "badgeName": "Speech to Text Transcription with the Cloud Speech API",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-1.sh
+
+sudo chmod +x gsp048-1.sh
+
+./gsp048-1.sh
+#Now Check The Score Upto Task 3 then Process Next.
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-2.sh
+
+sudo chmod +x gsp048-2.sh
+
+./gsp048-2.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "37",
+      "badgeName": "Using the Google Cloud Speech API: Challenge Lab",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `# click+ CREATE CREDENTIALS
+
+#Click API key
+
+# Copy generated API key
+
+# Run the following Commands in CloudShell
+#Assign Veriables
+export API_KEY=
+export REQUEST1=
+export RESPONSE1=
+export REQUEST2=
+export RESPONSE2=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Using%20the%20Google%20Cloud%20Speech%20API%20Challenge%20Lab/arc131.sh
+
+sudo chmod +x arc131.sh
+
+./arc131.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "38",
+      "badgeName": "Manage Bigtable on Google Cloud",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `#Watch The Video`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "39",
+      "badgeName": "Designing and Querying Bigtable Schemas",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Designing%20and%20Querying%20Bigtable%20Schemas/gsp1053.sh
+
+sudo chmod +x gsp1053.sh
+
+./gsp1053.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "40",
+      "badgeName": "Creating and Populating a Bigtable Instance",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20and%20Populating%20a%20Bigtable%20Instance/gsp1054.sh
+
+sudo chmod +x gsp1054.sh
+
+./gsp1054.sh
+# Go to Create job from template from here
+
+ # Delete table & Instance`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "41",
+      "badgeName": "Streaming Data to Bigtable",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Streaming%20Data%20to%20Bigtable/gsp1055-1.sh
+
+sudo chmod +x gsp1055-1.sh
+
+./gsp1055-1.sh
+# Run the following Commands in 2nd CloudShell tab
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Streaming%20Data%20to%20Bigtable/gsp1055-2.sh
+
+sudo chmod +x gsp1055-2.sh
+
+./gsp1055-2.sh
+# then
+cbt deletetable current_conditions
+
+gcloud bigtable instances delete sandiego --quiet`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "42",
+      "badgeName": "Monitoring and Managing Bigtable Health and Performance",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+# Check here and use another ZONE for  // sandiego-traffic-sensors-c2
+
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Monitoring%20and%20Managing%20Bigtable%20Health%20and%20Performance/gsp1056.sh
+
+sudo chmod +x gsp1056.sh
+
+./gsp1056.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "43",
+      "badgeName": "Create and Manage Bigtable Instances: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+export ZONE2=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Create%20and%20Manage%20Bigtable%20Instances%20Challenge%20Lab/gsp380.sh
+
+sudo chmod +x gsp380.sh
+
+./gsp380.sh
+# Go to Dataflow Job`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "43",
+      "badgeName": "Pub/Sub: Qwik Start - Console",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/PubSub%20Qwik%20Start%20-%20Console/gsp096.sh
+
+sudo chmod +x gsp096.sh
+
+./gsp096.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "44",
+      "badgeName": "Cloud Scheduler: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Scheduler%20Qwik%20Start/gsp401.sh
+
+sudo chmod +x gsp401.sh
+
+./gsp401.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "45",
+      "badgeName": "Get Started with Pub/Sub: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `# For form 1: Solution here
+# Task 1. Publish a message to the topic.
+# Task 2. View the message.
+# Task 3. Create a Pub/Sub Snapshot for Pub/Sub topic.
+# Run the following Commands in CloudShell
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_1.sh
+
+sudo chmod +x form_1.sh
+
+./form_1.sh
+# Now check your progress, You will get score for all tasks..
+# For form 2: Solution here
+# Task 1. Create Pub/Sub schema.
+# Task 2. Create Pub/Sub topic using schema.
+# Task 3. Create a trigger cloud function with Pub/Sub topic
+# Run the following Commands in CloudShell
+export LOCATION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_2.sh
+
+sudo chmod +x form_2.sh
+
+./form_2.sh
+# Now check your progress, You will get score for all tasks..
+# For form 3: Solution here
+# Task 1. Set up Cloud Pub/Sub.
+# Task 2. Create a Cloud Scheduler job.
+# Task 3. Verify the results in Cloud Pub/Sub.
+# Run the following Commands in CloudShell
+export LOCATION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Get%20Started%20with%20PubSub%20Challenge%20Lab/form_3.sh
+
+sudo chmod +x form_3.sh
+
+./form_3.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "46",
+      "badgeName": "Dataplex: Qwik Start - Console",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `export REGION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Dataplex%20Qwik%20Start%20-%20Console/gsp1143.sh
+
+sudo chmod +x gsp1143.sh
+
+./gsp1143.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "47",
+      "badgeName": "Dataplex: Qwik Start - Command Line",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `export REGION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Dataplex%20Qwik%20Start%20-%20Command%20Line/gsp1144.sh
+
+sudo chmod +x gsp1144.sh
+
+./gsp1144.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "48",
+      "badgeName": "Tagging Dataplex Assets",
+      "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
+      "difficulty": "Easy",
+      "code": `export REGION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Tagging%20Dataplex%20Assets/gsp1145.sh
+
+sudo chmod +x gsp1145.sh
+
+./gsp1145.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "49",
+      "badgeName": "Get Started with Dataplex: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export LOCATION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Get%20Started%20with%20Dataplex%20Challenge%20Lab/arc117.sh
+
+sudo chmod +x arc117.sh
+
+./arc117.sh
+# Task 3. Create and apply a tag template to a zone
+# Go to Templates from here
+# follow video instructions`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "50",
+      "badgeName": "Cloud IAM: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export USERNAME_2=
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Cloud%20IAM%20Qwik%20Start/quicklabgsp064.sh
+
+sudo chmod +x quicklabgsp064.sh
+
+./quicklabgsp064.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "51",
+      "badgeName": "Data Catalog: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export LOCATION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Data%20Catalog%20Qwik%20Start/gsp729.sh
+
+sudo chmod +x gsp729.sh
+
+./gsp729.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "52",
+      "badgeName": "BigLake: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/BigLake%20Qwik%20Start/gsp1040.sh
+
+sudo chmod +x gsp1040.sh
+
+./gsp1040.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "53",
+      "badgeName": "Secure BigLake Data: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": ` export USER_2=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Secure%20BigLake%20Data%20Challenge%20Lab/arc129.sh
+
+sudo chmod +x arc129.sh
+
+./arc129.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "54",
+      "badgeName": "APIs Explorer: Cloud Storage",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/APIs%20Explorer%20Cloud%20Storage/gsp421.sh
+
+sudo chmod +x gsp421.sh
+
+./gsp421.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "55",
+      "badgeName": "Cloud Storage: Qwik Start - CLI/SDK",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export REGION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Storage%20Qwik%20Start%20-%20CLI%20SDK/gsp074.sh
+
+sudo chmod +x gsp074.sh
+
+./gsp074.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "56",
+      "badgeName": "Google Cloud Storage - Bucket Lock",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Google%20Cloud%20Storage%20-%20Bucket%20Lock/gsp297.sh
+
+sudo chmod +x gsp297.sh
+
+./gsp297.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "57",
+      "badgeName": "Get Started with Cloud Storage: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export BUCKET_1=
+export BUCKET_2=
+export BUCKET_3=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Get%20Started%20with%20Cloud%20Storage%20Challenge%20Lab/arc111.sh
+
+sudo chmod +x arc111.sh
+
+./arc111.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "58",
+      "badgeName": "Create a Virtual Machine",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20a%20Virtual%20Machine/gsp001.sh
+
+sudo chmod +x gsp001.sh
+
+./gsp001.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "59",
+      "badgeName": "Creating a Persistent Disk",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20a%20Persistent%20Disk/gsp004.sh
+
+sudo chmod +x gsp004.sh
+
+./gsp004.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "60",
+      "badgeName": "Hosting a Web App on Google Cloud Using Compute Engine",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/gsp662-1.sh
+
+sudo chmod +x gsp662-1.sh
+
+./gsp662-1.sh
+# NOTE : Check All Score Upto Task 6
+# Run again the following Commands in CloudShell
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/gsp662-2.sh
+
+sudo chmod +x gsp662-2.sh
+
+./gsp662-2.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "61",
+      "badgeName": "The Basics of Google Cloud Compute: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/gsp662-1.sh
+
+sudo chmod +x gsp662-1.sh
+
+./gsp662-1.sh
+# NOTE : Check All Score Upto Task 6
+# Run again the following Commands in CloudShell
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/gsp662-2.sh
+
+sudo chmod +x gsp662-2.sh
+
+./gsp662-2.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "62",
+      "badgeName": "BigQuery: Qwik Start - Console",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/BigQuery%20Qwik%20Start%20-%20Console/gsp072.sh
+
+sudo chmod +x gsp072.sh
+
+./gsp072.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "63",
+      "badgeName": "Data Catalog: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export LOCATION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Data%20Catalog%20Qwik%20Start/gsp729.sh
+
+sudo chmod +x gsp729.sh
+
+./gsp729.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "64",
+      "badgeName": "BigLake: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/BigLake%20Qwik%20Start/gsp1040.sh
+
+sudo chmod +x gsp1040.sh
+
+./gsp1040.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "65",
+      "badgeName": "Tag and Discover BigLake Data: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export REGION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Tag%20and%20Discover%20BigLake%20Data%20Challenge%20Lab/arc123.sh
+
+sudo chmod +x arc123.sh
+
+./arc123.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "66",
+      "badgeName": "Pub/Sub: Qwik Start - Command Line",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/PubSub%20Qwik%20Start%20-%20Command%20Line/gsp095.sh
+
+sudo chmod +x gsp095.sh
+
+./gsp095.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "67",
+      "badgeName": "Cloud Functions 2nd Gen: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Functions%202nd%20Gen%20Qwik%20Start/gsp1089-1.sh
+
+sudo chmod +x gsp1089-1.sh
+
+./gsp1089-1.sh
+# Now Check The Score Upto Task 6 then Process Next
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Functions%202nd%20Gen%20Qwik%20Start/gsp1089-2.sh
+
+sudo chmod +x gsp1089-2.sh
+
+./gsp1089-2.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "68",
+      "badgeName": "Eventarc for Cloud Run",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export REGION=
+curl -LO https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/raw/main/Eventarc%20for%20Cloud%20Run/gsp773.sh
+
+sudo chmod +x gsp773.sh
+
+./gsp773.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "69",
+      "badgeName": "Get Started with Eventarc: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export LOCATION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Get%20Started%20with%20Eventarc%20Challenge%20Lab/arc118.sh
+
+sudo chmod +x arc118.sh
+
+./arc118.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "70",
+      "badgeName": "Cloud Natural Language API: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `# Run the following Commands in SSH
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Natural%20Language%20API%20Qwik%20Start/gsp097.sh
+
+sudo chmod +x gsp097.sh
+
+./gsp097.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "71",
+      "badgeName": "Speech-to-Text API: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export API_KEY=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Google%20Cloud%20Speech-to-Text%20API%20Qwik%20Start/gsp119.sh
+
+sudo chmod +x gsp119.sh
+
+./gsp119.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "72",
+      "badgeName": "Entity and Sentiment Analysis with the Natural Language API ",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+# Go to VM instances from here
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Entity%20and%20Sentiment%20Analysis%20with%20the%20Natural%20Language%20API/gsp038.sh
+
+sudo chmod +x gsp038.sh
+
+./gsp038.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "73",
+      "badgeName": "Analyze Speech & Language with Google APIs: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export API_KEY=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Analyze%20Speech%20%26%20Language%20with%20Google%20APIs%20Challenge%20Lab/arc114.sh
+
+sudo chmod +x arc114.sh
+
+./arc114.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "74",
+      "badgeName": "VPC Networking Fundamentals",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export ZONE_2=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/VPC%20Networking%20Fundamentals/gsp210.sh
+
+sudo chmod +x gsp210.sh
+
+./gsp210.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "75",
+      "badgeName": "Set Up Network and Application Load Balancers",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Set%20Up%20Network%20and%20HTTP%20Load%20Balancers/gsp007.sh
+
+sudo chmod +x gsp007.sh
+
+./gsp007.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "76",
+      "badgeName": "Internal Load Balancer",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+export STATIC_IP=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Internal%20Load%20Balancer/gsp041.sh
+
+sudo chmod +x gsp041.sh
+
+./gsp041.sh
+`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "77",
+      "badgeName": "Networking Fundamentals on Google Cloud: Challenge Lab",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Networking%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/arc124.sh
+
+sudo chmod +x arc124.sh
+
+./arc124.sh
+`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
     }
+    
+    
+    
+    
     
     
     
