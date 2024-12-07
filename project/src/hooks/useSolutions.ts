@@ -61,39 +61,30 @@ chmod +x ApiExplorer.sh
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
       "code": `
-    
-    // ---
-    
-    // ### 1. IAM Role to create objects, folders, and managed folders:
-    // Answer: Storage Object Creator
-    
-    // ---
-    
-    // ### 2. IAM Role for full object and folder management (create, view, update, delete):
-    // Answer: Object Admin
-    
-    // --- 
-    
-    // ### 3. IAM Role to grant read-only access to a Cloud Storage data lake for BigQuery:
-    // Answer: Storage Object Viewer
-    
-    // --- 
-    
-    // ### 4. IAM Role for complete management capabilities over objects and folders:
-    // Answer: Storage Object Admin
-    
-    // --- 
-    
-    // ### 5. Google Cloud's generative AI-powered assistance for users:
-    // Answer: Gemini
-    
-    // --- 
-    
-    // ### 6. Command to enable the Cloud AI Companion API for Gemini:
-    // Answer: gcloud services enable
-    
-    // ---
-    
+
+1️⃣. IAM Role to create objects, folders, and managed folders:  
+🟢 Answer: Storage Object Creator  
+
+
+2️⃣. IAM Role for full object and folder management (create, view, update, delete):  
+🟢 Answer: Storage Admin  
+
+
+3️⃣. IAM Role to grant read-only access to a Cloud Storage data lake for BigQuery:  
+🟢 Answer: Storage Object Viewer  
+
+
+4️⃣. IAM Role for complete management capabilities over objects and folders:  
+🟢 Answer: Storage Admin  
+
+
+5️⃣. Google Cloud's generative AI-powered assistance for users:  
+🟢 Answer: Gemini  
+
+
+6️⃣. Command to enable the Cloud AI Companion API for Gemini:  
+🟢 Answer: gcloud services enable 
+
     `,
     
       addedBy: "Sangram Das",
@@ -104,39 +95,35 @@ chmod +x ApiExplorer.sh
       "badgeName": "The Arcade Trivia December 2024 Week 3",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Medium",
-      "code": `// Correct answers for Google Cloud services and commands:
+      "code": `
     
-    // ---
+    1️⃣. Google Cloud's AI-ready analytics data warehouse:
+    🟢Answer: BigQuery
     
-    // ### 1. Google Cloud's AI-ready analytics data warehouse:
-    // Answer: BigQuery
     
-    // ---
+    2️⃣. Command in BigQuery to display information about a specific resource:
+    🟢Answer: bq show
     
-    // ### 2. Command in BigQuery to display information about a specific resource:
-    // Answer: bq show
+
     
-    // --- 
+    3️⃣. Fully managed database service integrating relational, graph, key-value, and search capabilities:
+    🟢Answer: Cloud Spanner
     
-    // ### 3. Fully managed database service integrating relational, graph, key-value, and search capabilities:
-    // Answer: Cloud Spanner
+
     
-    // --- 
+    4️⃣. Fully managed database service for PostgreSQL and MySQL databases:
+    🟢Answer: Cloud SQL
     
-    // ### 4. Fully managed database service for PostgreSQL and MySQL databases:
-    // Answer: Cloud SQL
+
     
-    // --- 
+    5️⃣. Google Cloud API for detecting PII and privacy-sensitive data:
+    🟢Answer: Cloud Data Loss Prevention
     
-    // ### 5. Google Cloud API for detecting PII and privacy-sensitive data:
-    // Answer: Cloud Data Loss Prevention
+
     
-    // --- 
+    6️⃣. Command to upload the curl response to Cloud Storage:
+    🟢Answer: gsutil cp
     
-    // ### 6. Command to upload the curl response to Cloud Storage:
-    // Answer: gsutil cp
-    
-    // ---
     
     `,
       addedBy: "Sangram Das",
