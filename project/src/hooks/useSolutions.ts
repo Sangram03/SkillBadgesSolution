@@ -184,13 +184,101 @@ sudo chmod +x techcps.sh
       dateAdded: "2024-12-07"
     },
     {
-      "id": "7",
+      "id": "8",
       "badgeName": "Explore an Ecommerce Dataset with SQL in BigQuery",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
       "code": `curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Exploring%20Your%20Ecommerce%20Dataset%20with%20SQL%20in%20Google%20BigQuery/techcpsgsp407.sh
 sudo chmod +x techcpsgsp407.sh
 ./techcpsgsp407.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "9",
+      "badgeName": "Cloud Data Loss Prevention API: Qwik Start",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export BUCKET_NAME=
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Data%20Loss%20Prevention%3A%20Qwik%20Start%20-%20JSON/techcps107.sh
+sudo chmod +x techcps107.sh
+./techcps107.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "10",
+      "badgeName": "mini lab: BigQuery : 1",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP/master/mini%20lab%3A%20BigQuery%20%3A%201/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "11",
+      "badgeName": "mini lab : BigQuery : 2",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP/master/mini%20lab%20%3A%20BigQuery%20%3A%202/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "12",
+      "badgeName": "mini lab : Cloud Storage : 4",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP/master/mini%20lab%20%3A%20Cloud%20Storage%20%3A%204/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "13",
+      "badgeName": "mini lab : Cloud Storage : 5",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP/master/mini%20lab%20%3A%20Cloud%20Storage%20%3A%205/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "13",
+      "badgeName": "Analyze data with Gemini assistance",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP/master/Analyze%20data%20with%20Gemini%20assistance/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "14",
+      "badgeName": "Analyze data with Gemini assistance",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export REGION=
+
+curl -LO raw.githubusercontent.com/Techcps/GSP/master/Analyze%20data%20with%20Gemini%20assistance/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh`,
     
       addedBy: "Techcps",
       dateAdded: "2024-12-07"
