@@ -94,7 +94,7 @@ chmod +x ApiExplorer.sh
     
     // ---
     
-    // These answers help you understand IAM roles and their relevance in managing Google Cloud resources effectively. Let me know if you need further clarification!`,
+    `,
     
       addedBy: "Sangram Das",
       dateAdded: "2024-12-07"
