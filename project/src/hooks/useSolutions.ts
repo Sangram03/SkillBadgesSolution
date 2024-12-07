@@ -59,7 +59,7 @@ chmod +x ApiExplorer.sh
       "id": "3",
       "badgeName": "The Arcade Trivia December 2024 Week 3",
       "solution": "https://github.com/example/ml-badge-solution",
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "code": `// Correct answers for IAM roles and Cloud commands:
     
     // ---
