@@ -128,7 +128,37 @@ chmod +x ApiExplorer.sh
     `,
       addedBy: "Sangram Das",
       dateAdded: "2024-12-07"
-    }
+    },
+    {
+      "id": "5",
+      "badgeName": "The Arcade Trivia December 2024 Week 4",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `
+
+1️⃣. What command do you use to create an external application Load Balancer with backend buckets?  
+🟢 Answer: gcloud compute backend-buckets create  
+
+2️⃣. What command would you use to configure URL maps for directing traffic to backend buckets?  
+🟢 Answer: gcloud compute url-maps create  
+
+3️⃣. What command should you use to delete a bucket and all of its contents in Cloud Storage?  
+🟢 Answer: gcloud storage rm  
+
+4️⃣. What command would you use to remove the CORS settings from a bucket?  
+🟢 Answer: gcloud storage buckets update gs://BUCKET_NAME --clear-cors  
+
+5️⃣. Which of the following statements effectively removes duplicate rows and returns only the unique entries?  
+🟢 Answer: SELECT DISTINCT  
+
+6️⃣. Which of the following statements will return all rows, including duplicates?  
+🟢 Answer: SELECT ALL  
+
+    `,
+    
+      addedBy: "Sangram Das",
+      dateAdded: "2024-12-07"
+    },
     
     
 ];
