@@ -324,12 +324,9 @@ sudo chmod +x techcps129.sh
       "badgeName": "2004Secure BigLake Data: Challenge Lab",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
-      "code": `export ZONE=
-      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20a%20Persistent%20Disk/gsp004.sh
-
-sudo chmod +x gsp004.sh
-
-./gsp004.sh`,
+      "code": `curl -LO raw.githubusercontent.com/Techcps/ARC/master/Secure%20BigLake%20Data%3A%20Challenge%20Lab/techcps129.sh
+sudo chmod +x techcps129.sh
+./techcps129.sh`,
       
     
       addedBy: "Techcps",
@@ -340,7 +337,12 @@ sudo chmod +x gsp004.sh
       "badgeName": "Creating a Persistent Disk",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
-      "code": "SELECT * EXCEPT(zip, latitude, ip_address, longitude) FROM REPLACE_YOUR_PROJECT_ID.online_shop.user_online_sessions LIMIT 1000",
+      "code": `export ZONE=
+      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Creating%20a%20Persistent%20Disk/gsp004.sh
+
+sudo chmod +x gsp004.sh
+
+./gsp004.sh`,
       
     
       addedBy: "Techcps",
