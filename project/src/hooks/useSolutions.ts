@@ -57,7 +57,7 @@ chmod +x ApiExplorer.sh
     
     {
       "id": "3",
-      "badgeName": "The Arcade Trivia December 2024 Week 3",
+      "badgeName": "The Arcade Trivia December 2024 Week 2",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
       "code": `// Correct answers for IAM roles and Cloud commands:
@@ -98,7 +98,51 @@ chmod +x ApiExplorer.sh
     
       addedBy: "Sangram Das",
       dateAdded: "2024-12-07"
+    },
+    {
+      "id": "4",
+      "badgeName": "The Arcade Trivia December 2024 Week 3",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Medium",
+      "code": `// Correct answers for Google Cloud services and commands:
+    
+    // ---
+    
+    // ### 1. Google Cloud's AI-ready analytics data warehouse:
+    // Answer: BigQuery
+    
+    // ---
+    
+    // ### 2. Command in BigQuery to display information about a specific resource:
+    // Answer: bq show
+    
+    // --- 
+    
+    // ### 3. Fully managed database service integrating relational, graph, key-value, and search capabilities:
+    // Answer: Cloud Spanner
+    
+    // --- 
+    
+    // ### 4. Fully managed database service for PostgreSQL and MySQL databases:
+    // Answer: Cloud SQL
+    
+    // --- 
+    
+    // ### 5. Google Cloud API for detecting PII and privacy-sensitive data:
+    // Answer: Cloud Data Loss Prevention
+    
+    // --- 
+    
+    // ### 6. Command to upload the curl response to Cloud Storage:
+    // Answer: gsutil cp
+    
+    // ---
+    
+    `,
+      addedBy: "Sangram Das",
+      dateAdded: "2024-12-07"
     }
+    
     
 ];
 
