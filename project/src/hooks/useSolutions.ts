@@ -159,6 +159,18 @@ chmod +x ApiExplorer.sh
       addedBy: "Sangram Das",
       dateAdded: "2024-12-07"
     },
+    {
+      "id": "6",
+      "badgeName": "mini lab : Cloud Storage : 3",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP/master/mini%20lab%20%3A%20Cloud%20Storage%20%3A%203/techcps.sh
+sudo chmod +x techcps.sh
+./techcps.sh`,
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    }
     
     
 ];
