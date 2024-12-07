@@ -19,33 +19,33 @@ chmod +x ApiExplorer.sh
       "badgeName": "The Arcade Trivia December 2024 Week 1",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
-      "code": `// Correct commands and storage-related answers for Google Cloud:
+      "code": `
     
     
-    // ### 1. Command to copy files to your Cloud Storage bucket:
-    // Answer: gcloud storage cp
+    1️⃣. Command to copy files to your Cloud Storage bucket:
+    🟢 Answer: gcloud storage cp
     
     
-    // ### 2. Command to update Google Cloud Storage buckets:
-    // Answer: gcloud storage buckets update
+    2️⃣. Command to update Google Cloud Storage buckets:
+    🟢Answer: gcloud storage buckets update
     
     
-    // ### 3. Command to check the lifecycle configuration of a bucket:
-    // Answer: gcloud storage buckets describe
-    
-    
-    
-    // ### 4. Command to update objects in Cloud Storage:
-    // Answer: gcloud storage objects update
-    
-    
-    // ### 5. Storage engine for analytics and AI tools:
-    // Answer: BigLake
+    3️⃣. Command to check the lifecycle configuration of a bucket:
+    🟢Answer: gcloud storage buckets describe
     
     
     
-    // ### 6. Command to create a Google Cloud Storage bucket:
-    // Answer: gcloud storage buckets create
+    4️⃣. Command to update objects in Cloud Storage:
+    🟢Answer: gcloud storage objects update
+    
+    
+    5️⃣. Storage engine for analytics and AI tools:
+    🟢Answer: BigLake
+    
+    
+    
+    6️⃣. Command to create a Google Cloud Storage bucket:
+    🟢Answer: gcloud storage buckets create
     
     
     
@@ -60,7 +60,7 @@ chmod +x ApiExplorer.sh
       "badgeName": "The Arcade Trivia December 2024 Week 2",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
-      "code": `// Correct answers for IAM roles and Cloud commands:
+      "code": `
     
     // ---
     
