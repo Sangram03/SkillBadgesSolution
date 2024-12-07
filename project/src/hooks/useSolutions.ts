@@ -7,40 +7,53 @@ const initialSolutions: Solution[] = [
     badgeName: 'APIs Explorer: App Engine',
     solution: 'https://github.com/example/cloud-architecture-solution',
     difficulty: 'Easy',
-    code: `curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/APIs%20Explorer%3A%20App%20Engine/techcps422.sh
-sudo chmod +x techcps422.sh
-./techcps422.sh
+    code: `curl -LO https://raw.githubusercontent.com/Sangram03/SkillBadgesSolution/main/Solution/ApiExplorer.sh
+chmod +x ApiExplorer.sh
+./ApiExplorer.sh
 `,
     addedBy: 'Sangram Das',
     dateAdded: '07-12-2024',
   },
-  {
-    id: '2',
-    badgeName: 'APIs Explorer: Cloud SQL',
-    solution: 'https://github.com/example/ml-badge-solutin',
-    difficulty: 'Medium',
-    code: `# Machine Learning Example
-import tensorflow as tf
-from sklearn.model_selection import train_test_split
-
-def train_model(X, y):
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=0.2, random_state=42
-    )
+    {
+      "id": "2",
+      "badgeName": "The Arcade Trivia December 2024 Week 1",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `// Correct commands and storage-related answers for Google Cloud:
     
-    model = tf.keras.Sequential([
-        tf.keras.layers.Dense(64, activation='relu'),
-        tf.keras.layers.Dense(32, activation='relu'),
-        tf.keras.layers.Dense(1, activation='sigmoid')
-    ])
     
-    model.compile(optimizer='adam', loss='binary_crossentropy')
-    model.fit(X_train, y_train, epochs=10)
+    // ### 1. Command to copy files to your Cloud Storage bucket:
+    // Answer: gcloud storage cp
     
-    return model`,
-    addedBy: 'Sangram Das',
-    dateAdded: '07-12-2024',
-  },
+    
+    // ### 2. Command to update Google Cloud Storage buckets:
+    // Answer: gcloud storage buckets update
+    
+    
+    // ### 3. Command to check the lifecycle configuration of a bucket:
+    // Answer: gcloud storage buckets describe
+    
+    
+    
+    // ### 4. Command to update objects in Cloud Storage:
+    // Answer: gcloud storage objects update
+    
+    
+    // ### 5. Storage engine for analytics and AI tools:
+    // Answer: BigLake
+    
+    
+    
+    // ### 6. Command to create a Google Cloud Storage bucket:
+    // Answer: gcloud storage buckets create
+    
+    
+    
+    `,
+      "addedBy": "Sangram Das",
+      "dateAdded": "2024-12-07"
+    },
+    
   {
     id: '3',
     badgeName: 'Web Development',
