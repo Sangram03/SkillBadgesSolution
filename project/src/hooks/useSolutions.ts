@@ -324,11 +324,11 @@ sudo chmod +x techcps129.sh
       "badgeName": "2004Secure BigLake Data: Challenge Lab",
       "solution": "https://github.com/example/ml-badge-solution",
       "difficulty": "Easy",
-      //"code": `SELECT * EXCEPT(zip, latitude, ip_address, longitude) FROM `REPLACE_YOUR_PROJECT_ID.online_shop.user_online_sessions` LIMIT 1000`,
-    
-      addedBy: "Techcps",
-      dateAdded: "2024-12-07"
+      "code": "SELECT * EXCEPT(zip, latitude, ip_address, longitude) FROM `REPLACE_YOUR_PROJECT_ID.online_shop.user_online_sessions` LIMIT 1000",
+      "addedBy": "Techcps",
+      "dateAdded": "2024-12-07"
     }
+    
     
     
 ];
