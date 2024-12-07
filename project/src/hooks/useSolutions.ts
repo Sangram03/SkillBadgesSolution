@@ -412,7 +412,158 @@ sudo chmod +x arc120.sh
     
       addedBy: "Techcps",
       dateAdded: "2024-12-07"
+    },
+    {
+      "id": "25",
+      "badgeName": "Cloud Natural Language API: Qwik Start",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `
+      #Commands in SSH
+      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Natural%20Language%20API%20Qwik%20Start/gsp097.sh
+
+sudo chmod +x gsp097.sh
+
+./gsp097.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "26",
+      "badgeName": "Cloud Natural Language API: Qwik Start",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `Watch the Video`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "27",
+      "badgeName": "Entity and Sentiment Analysis with the Natural Language API",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+      #Go to VM instances
+      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Entity%20and%20Sentiment%20Analysis%20with%20the%20Natural%20Language%20API/gsp038.sh
+
+sudo chmod +x gsp038.sh
+
+./gsp038.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "28",
+      "badgeName": "Analyze Sentiment with Natural Language API: Challenge Lab",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+export API_KEY=
+gcloud compute ssh lab-vm --zone=$ZONE --quiet --command "curl -LO https://raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Analyze%20Sentiment%20with%20Natural%20Language%20API%20Challenge%20Lab/arc130.sh && sudo chmod +x arc130.sh && ./arc130.sh"`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "29",
+      "badgeName": "Analyze Sentiment with Natural Language API: Challenge Lab",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export ZONE=
+export API_KEY=
+gcloud compute ssh lab-vm --zone=$ZONE --quiet --command "curl -LO https://raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Analyze%20Sentiment%20with%20Natural%20Language%20API%20Challenge%20Lab/arc130.sh && sudo chmod +x arc130.sh && ./arc130.sh"`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "30",
+      "badgeName": "It Speaks! Create Synthetic Speech Using Text-to-Speech",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Create%20Synthetic%20Speech%20Using%20quicklab/quicklabgsp222.sh
+
+sudo chmod +x quicklabgsp222.sh
+
+./quicklabgsp222.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "31",
+      "badgeName": "Translate Text with the Cloud Translation API",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Translate%20Text%20with%20the%20Cloud%20Translation%20API/gsp049.sh
+
+sudo chmod +x gsp049.sh
+
+./gsp049.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "32",
+      "badgeName": "Speech to Text Transcription with the Cloud Speech API",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-1.sh
+
+sudo chmod +x gsp048-1.sh
+
+./gsp048-1.sh
+#Score Upto Task 3 then
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-2.sh
+
+sudo chmod +x gsp048-2.sh
+
+./gsp048-2.sh
+`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
+    },
+    {
+      "id": "33",
+      "badgeName": "Cloud Speech API 3 Ways: Challenge Lab",
+      "solution": "https://github.com/example/ml-badge-solution",
+      "difficulty": "Easy",
+      "code": `export ZONE=$(gcloud compute instances list lab-vm --format 'csv[no-heading](zone)')
+gcloud compute ssh lab-vm --project=$DEVSHELL_PROJECT_ID --zone=$ZONE --quiet
+#Go to Credentials
+export API_KEY=
+export task_2_file_name=""
+export task_3_request_file=""
+export task_3_response_file=""
+export task_4_sentence=""
+export task_4_file=""
+export task_5_sentence=""
+export task_5_file=""
+# then 
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Speech%20API%203%20Ways%20Challenge%20Lab/arc132.sh
+
+sudo chmod +x arc132.sh
+
+./arc132.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-07"
     }
+    
     
     
     
