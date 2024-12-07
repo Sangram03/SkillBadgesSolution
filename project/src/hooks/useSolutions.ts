@@ -17,7 +17,7 @@ sudo chmod +x techcps422.sh
   {
     id: '2',
     badgeName: 'APIs Explorer: Cloud SQL',
-    solution: 'https://github.com/example/ml-badge-solution',
+    solution: 'https://github.com/example/ml-badge-solutin',
     difficulty: 'Medium',
     code: `# Machine Learning Example
 import tensorflow as tf
