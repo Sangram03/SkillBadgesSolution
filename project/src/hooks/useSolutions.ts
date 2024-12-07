@@ -5,7 +5,7 @@ const initialSolutions: Solution[] = [
   {
     id: '1',
     badgeName: 'APIs Explorer: App Engine',
-    solution: 'https://github.com/example/cloud-architecture-solution',
+    solution: '#',
     difficulty: 'Easy',
     code: `curl -LO https://raw.githubusercontent.com/Sangram03/SkillBadgesSolution/main/Solution/ApiExplorer.sh
 chmod +x ApiExplorer.sh

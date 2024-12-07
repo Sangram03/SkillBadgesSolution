@@ -1,5 +1,5 @@
 import React from 'react';
-import { Calendar, User } from 'lucide-react';
+import { ExternalLink, Calendar, User, ChevronDown, ChevronUp } from 'lucide-react';
 import { Solution } from '../types';
 import CodeDisplay from './CodeDisplay';
 import DifficultyBadge from './DifficultyBadge';
@@ -34,15 +34,38 @@ const SolutionCard: React.FC<SolutionCardProps> = ({ solution, isSelected, onSel
           <Calendar className="h-4 w-4" />
           <span className="text-sm">{solution.dateAdded}</span>
         </div>
-        {solution.code && (
-          <button
-            onClick={() => onSelect(solution)}
-            className="inline-flex items-center gap-1 text-gray-600 dark:text-gray-400
-                       hover:text-gray-800 dark:hover:text-gray-200"
+        <div className="flex items-center justify-between">
+          <a
+            href={solution.solution}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 text-blue-600 dark:text-blue-400 
+                     hover:text-blue-700 dark:hover:text-blue-300"
           >
-            Show Code
-          </button>
-        )}
+            <ExternalLink className="h-4 w-4" />
+            Video Solution
+          </a>
+          {solution.code && (
+            <button
+              onClick={() => onSelect(solution)}
+              className="inline-flex items-center gap-1 text-gray-600 dark:text-gray-400
+                       hover:text-gray-800 dark:hover:text-gray-200"
+            >
+              {isSelected ? (
+                <>
+                
+                  Hide Solution
+                  <ChevronUp className="h-4 w-4" />
+                </>
+              ) : (
+                <>
+                  Show Solution
+                  <ChevronDown className="h-4 w-4" />
+                </>
+              )}
+            </button>
+          )}
+        </div>
       </div>
       {isSelected && solution.code && (
         <div className="px-6 pb-6">
