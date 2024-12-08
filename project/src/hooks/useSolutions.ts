@@ -389,7 +389,15 @@ sudo chmod +x gsp004.sh
 
 sudo chmod +x gsp662-1.sh
 
-./gsp662-1.sh`,
+./gsp662-1.sh
+
+#First task six after wait then
+
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/gsp662-2.sh
+
+sudo chmod +x gsp662-2.sh
+
+./gsp662-2.sh`,
       
     
       addedBy: "Techcps",
@@ -1368,6 +1376,104 @@ sudo chmod +x arc124.sh
 
 ./arc124.sh
 `,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "78",
+      "badgeName": "APIs Explorer: App Engine",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/APIs%20Explorer%3A%20App%20Engine/techcps422.sh
+sudo chmod +x techcps422.sh
+./techcps422.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "79",
+      "badgeName": "APIs Explorer: Cloud SQL",
+      "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/APIs%20Explorer%3A%20Cloud%20SQL/techcps423.sh
+sudo chmod +x techcps423.sh
+./techcps423.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "80",
+      "badgeName": "APIs Explorer: Create and Update a Cluster",
+      "solution": "https://www.youtube.com/watch?v=BRcLYmAWX0I",
+      "difficulty": "Easy",
+      "code": `#Watch the Video`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "81",
+      "badgeName": "Introduction to SQL for BigQuery and Cloud SQL",
+      "solution": "https://www.youtube.com/watch?v=BRcLYmAWX0I",
+      "difficulty": "Easy",
+      "code": `export REGION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Introduction%20to%20SQL%20for%20BigQuery%20and%20Cloud%20SQL/gsp281.sh
+
+sudo chmod +x gsp281.sh
+
+./gsp281.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "82",
+      "badgeName": "BigQuery: Qwik Start - Command Line",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/BigQuery%20Qwik%20Start%20-%20Command%20Line/gsp071.sh
+
+sudo chmod +x gsp071.sh
+
+./gsp071.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "83",
+      "badgeName": "Explore an Ecommerce Dataset with SQL in BigQuery",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Exploring%20Your%20Ecommerce%20Dataset%20with%20SQL%20in%20Google%20BigQuery/gsp407.sh
+
+sudo chmod +x gsp407.sh
+
+./gsp407.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "84",
+      "badgeName": "Troubleshooting Common SQL Errors with BigQuery",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Troubleshooting%20Common%20SQL%20Errors%20with%20BigQuery/gsp408.sh
+
+sudo chmod +x gsp408.sh
+
+./gsp408.sh`,
       
     
       addedBy: "Techcps",
