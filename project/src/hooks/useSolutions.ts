@@ -773,7 +773,7 @@ sudo chmod +x gsp380.sh
       dateAdded: "2024-12-07"
     },
     {
-      "id": "43",
+      "id": "44",
       "badgeName": "Pub/Sub: Qwik Start - Console",
       "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
       "difficulty": "Easy",
@@ -788,7 +788,7 @@ sudo chmod +x gsp096.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "44",
+      "id": "45",
       "badgeName": "Cloud Scheduler: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
       "difficulty": "Easy",
@@ -803,7 +803,7 @@ sudo chmod +x gsp401.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "45",
+      "id": "46",
       "badgeName": "Get Started with Pub/Sub: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
       "difficulty": "Easy",
@@ -847,7 +847,7 @@ sudo chmod +x form_3.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "46",
+      "id": "47",
       "badgeName": "Dataplex: Qwik Start - Console",
       "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
       "difficulty": "Easy",
@@ -863,7 +863,7 @@ sudo chmod +x gsp1143.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "47",
+      "id": "48",
       "badgeName": "Dataplex: Qwik Start - Command Line",
       "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
       "difficulty": "Easy",
@@ -879,7 +879,7 @@ sudo chmod +x gsp1144.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "48",
+      "id": "49",
       "badgeName": "Tagging Dataplex Assets",
       "solution": "https://www.youtube.com/watch?v=IWMnBUkNTcA",
       "difficulty": "Easy",
@@ -895,7 +895,7 @@ sudo chmod +x gsp1145.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "49",
+      "id": "50",
       "badgeName": "Get Started with Dataplex: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -914,7 +914,7 @@ sudo chmod +x arc117.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "50",
+      "id": "51",
       "badgeName": "Cloud IAM: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -932,7 +932,7 @@ sudo chmod +x quicklabgsp064.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "51",
+      "id": "52",
       "badgeName": "Data Catalog: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -948,7 +948,7 @@ sudo chmod +x gsp729.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "52",
+      "id": "53",
       "badgeName": "BigLake: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -963,7 +963,7 @@ sudo chmod +x gsp1040.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "53",
+      "id": "54",
       "badgeName": "Secure BigLake Data: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -979,7 +979,7 @@ sudo chmod +x arc129.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "54",
+      "id": "55",
       "badgeName": "APIs Explorer: Cloud Storage",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -994,7 +994,7 @@ sudo chmod +x gsp421.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "55",
+      "id": "56",
       "badgeName": "Cloud Storage: Qwik Start - CLI/SDK",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1010,7 +1010,7 @@ sudo chmod +x gsp074.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "56",
+      "id": "57",
       "badgeName": "Google Cloud Storage - Bucket Lock",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1025,7 +1025,7 @@ sudo chmod +x gsp297.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "57",
+      "id": "58",
       "badgeName": "Get Started with Cloud Storage: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1043,7 +1043,7 @@ sudo chmod +x arc111.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "58",
+      "id": "59",
       "badgeName": "Create a Virtual Machine",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1058,7 +1058,7 @@ sudo chmod +x gsp001.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "59",
+      "id": "60",
       "badgeName": "Creating a Persistent Disk",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1074,7 +1074,7 @@ sudo chmod +x gsp004.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "60",
+      "id": "61",
       "badgeName": "Hosting a Web App on Google Cloud Using Compute Engine",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1097,7 +1097,7 @@ sudo chmod +x gsp662-2.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "61",
+      "id": "62",
       "badgeName": "The Basics of Google Cloud Compute: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1120,7 +1120,7 @@ sudo chmod +x gsp662-2.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "62",
+      "id": "63",
       "badgeName": "BigQuery: Qwik Start - Console",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1135,7 +1135,7 @@ sudo chmod +x gsp072.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "63",
+      "id": "64",
       "badgeName": "Data Catalog: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1151,7 +1151,7 @@ sudo chmod +x gsp729.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "64",
+      "id": "65",
       "badgeName": "BigLake: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1166,7 +1166,7 @@ sudo chmod +x gsp1040.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "65",
+      "id": "66",
       "badgeName": "Tag and Discover BigLake Data: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1182,7 +1182,7 @@ sudo chmod +x arc123.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "66",
+      "id": "67",
       "badgeName": "Pub/Sub: Qwik Start - Command Line",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1197,7 +1197,7 @@ sudo chmod +x gsp095.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "67",
+      "id": "68",
       "badgeName": "Cloud Functions 2nd Gen: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1218,7 +1218,7 @@ sudo chmod +x gsp1089-2.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "68",
+      "id": "69",
       "badgeName": "Eventarc for Cloud Run",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1234,7 +1234,7 @@ sudo chmod +x gsp773.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "69",
+      "id": "70",
       "badgeName": "Get Started with Eventarc: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1250,7 +1250,7 @@ sudo chmod +x arc118.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "70",
+      "id": "71",
       "badgeName": "Cloud Natural Language API: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1266,7 +1266,7 @@ sudo chmod +x gsp097.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "71",
+      "id": "72",
       "badgeName": "Speech-to-Text API: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1282,7 +1282,7 @@ sudo chmod +x gsp119.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "72",
+      "id": "73",
       "badgeName": "Entity and Sentiment Analysis with the Natural Language API ",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1299,7 +1299,7 @@ sudo chmod +x gsp038.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "73",
+      "id": "74",
       "badgeName": "Analyze Speech & Language with Google APIs: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1315,7 +1315,7 @@ sudo chmod +x arc114.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "74",
+      "id": "75",
       "badgeName": "VPC Networking Fundamentals",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1331,7 +1331,7 @@ sudo chmod +x gsp210.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "75",
+      "id": "76",
       "badgeName": "Set Up Network and Application Load Balancers",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1347,7 +1347,7 @@ sudo chmod +x gsp007.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "76",
+      "id": "77",
       "badgeName": "Internal Load Balancer",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1365,7 +1365,7 @@ sudo chmod +x gsp041.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "77",
+      "id": "78",
       "badgeName": "Networking Fundamentals on Google Cloud: Challenge Lab",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1382,7 +1382,7 @@ sudo chmod +x arc124.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "78",
+      "id": "79",
       "badgeName": "APIs Explorer: App Engine",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1395,7 +1395,7 @@ sudo chmod +x techcps422.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "79",
+      "id": "80",
       "badgeName": "APIs Explorer: Cloud SQL",
       "solution": "https://www.youtube.com/watch?v=NzRcltfHzu0",
       "difficulty": "Easy",
@@ -1408,7 +1408,7 @@ sudo chmod +x techcps423.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "80",
+      "id": "81",
       "badgeName": "APIs Explorer: Create and Update a Cluster",
       "solution": "https://www.youtube.com/watch?v=BRcLYmAWX0I",
       "difficulty": "Easy",
@@ -1419,7 +1419,7 @@ sudo chmod +x techcps423.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "81",
+      "id": "82",
       "badgeName": "Introduction to SQL for BigQuery and Cloud SQL",
       "solution": "https://www.youtube.com/watch?v=BRcLYmAWX0I",
       "difficulty": "Easy",
@@ -1435,7 +1435,7 @@ sudo chmod +x gsp281.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "82",
+      "id": "83",
       "badgeName": "BigQuery: Qwik Start - Command Line",
       "solution": "#",
       "difficulty": "Easy",
@@ -1450,7 +1450,7 @@ sudo chmod +x gsp071.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "83",
+      "id": "84",
       "badgeName": "Explore an Ecommerce Dataset with SQL in BigQuery",
       "solution": "#",
       "difficulty": "Easy",
@@ -1465,7 +1465,7 @@ sudo chmod +x gsp407.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "84",
+      "id": "85",
       "badgeName": "Troubleshooting Common SQL Errors with BigQuery",
       "solution": "#",
       "difficulty": "Easy",
@@ -1480,7 +1480,7 @@ sudo chmod +x gsp408.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "85",
+      "id": "86",
       "badgeName": "Pub/Sub: Qwik Start - Console",
       "solution": "#",
       "difficulty": "Easy",
@@ -1495,7 +1495,7 @@ sudo chmod +x gsp096.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "86",
+      "id": "87",
       "badgeName": "Speech-to-Text API: Qwik Start",
       "solution": "#",
       "difficulty": "Easy",
@@ -1515,7 +1515,7 @@ sudo chmod +x gsp119.sh
       dateAdded: "2024-12-14"
     },
     {
-      "id": "87",
+      "id": "88",
       "badgeName": "Cloud Scheduler: Qwik Start",
       "solution": "#",
       "difficulty": "Easy",
@@ -1530,7 +1530,7 @@ sudo chmod +x gsp401.sh
       dateAdded: "2024-12-08"
     },
     {
-      "id": "88",
+      "id": "89",
       "badgeName": "Dataflow: Qwik Start - Python",
       "solution": "#",
       "difficulty": "Easy",
@@ -1547,7 +1547,7 @@ sudo chmod +x gsp207.sh
       dateAdded: "2024-12-14"
     },
     {
-      "id": "89",
+      "id": "90",
       "badgeName": "TensorFlow: Qwik Start",
       "solution": "#",
       "difficulty": "Easy",
@@ -1586,7 +1586,7 @@ cloud_logger.info(str(model.predict(np.array([10.0]))))`,
       dateAdded: "2024-12-14"
     },
     {
-      "id": "90",
+      "id": "91",
       "badgeName": "Cloud Storage: Qwik Start - Cloud Console",
       "solution": "#",
       "difficulty": "Easy",
@@ -1605,7 +1605,7 @@ sudo chmod +x quicklabgsp073.sh
       dateAdded: "2024-12-14"
     },
     {
-      "id": "91",
+      "id": "92",
       "badgeName": "BigQuery: Qwik Start - Command Line",
       "solution": "#",
       "difficulty": "Easy",
@@ -1618,7 +1618,7 @@ sudo chmod +x techcpsgsp071.sh
       dateAdded: "2024-12-14"
     },
     {
-      "id": "92",
+      "id": "93",
       "badgeName": "Looker Developer: Qwik Start",
       "solution": "https://www.youtube.com/watch?v=wNgUf8-XfLM",
       "difficulty": "Easy",
