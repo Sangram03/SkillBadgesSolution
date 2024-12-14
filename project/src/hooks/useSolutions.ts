@@ -4,12 +4,14 @@ import { Solution } from '../types';
 const initialSolutions: Solution[] = [
   {
     id: '1',
-    badgeName: 'APIs Explorer: App Engine',
+    badgeName: 'Cloud Run Canary Deployments',
     solution: '#',
     difficulty: 'Easy',
-    code: `curl -LO https://raw.githubusercontent.com/Sangram03/SkillBadgesSolution/main/Solution/ApiExplorer.sh
-chmod +x ApiExplorer.sh
-./ApiExplorer.sh
+    code: `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Run%20Canary%20Deployments/gsp1078.sh
+
+sudo chmod +x gsp1078.sh
+
+./gsp1078.sh
 `,
     addedBy: 'Sangram Das',
     dateAdded: '07-12-2024',
