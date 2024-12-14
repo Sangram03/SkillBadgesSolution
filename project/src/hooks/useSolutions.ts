@@ -1478,6 +1478,155 @@ sudo chmod +x gsp408.sh
     
       addedBy: "Techcps",
       dateAdded: "2024-12-08"
+    },
+    {
+      "id": "85",
+      "badgeName": "Pub/Sub: Qwik Start - Console",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/PubSub%20Qwik%20Start%20-%20Console/gsp096.sh
+
+sudo chmod +x gsp096.sh
+
+./gsp096.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "86",
+      "badgeName": "Speech-to-Text API: Qwik Start",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `#in the SSH
+      
+      export API_KEY=
+
+      
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Google%20Cloud%20Speech-to-Text%20API%20Qwik%20Start/gsp119.sh
+
+sudo chmod +x gsp119.sh
+
+./gsp119.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-14"
+    },
+    {
+      "id": "87",
+      "badgeName": "Cloud Scheduler: Qwik Start",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Scheduler%20Qwik%20Start/gsp401.sh
+
+sudo chmod +x gsp401.sh
+
+./gsp401.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-08"
+    },
+    {
+      "id": "88",
+      "badgeName": "Dataflow: Qwik Start - Python",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `export REGION=
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Dataflow%20Qwik%20Start%20-%20Python/gsp207.sh
+
+sudo chmod +x gsp207.sh
+
+./gsp207.sh
+# Go to Dataflow Jobs`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-14"
+    },
+    {
+      "id": "89",
+      "badgeName": "TensorFlow: Qwik Start",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": ` # Go to Workbench from here
+pip3 install tensorflow
+pip3 install --upgrade pip
+pip install -U pylint --user
+pip install -r requirements.txt
+# Create & save the notebook as model.ipynb
+import logging
+import google.cloud.logging as cloud_logging
+from google.cloud.logging.handlers import CloudLoggingHandler
+from google.cloud.logging_v2.handlers import setup_logging
+
+cloud_logger = logging.getLogger('cloudLogger')
+cloud_logger.setLevel(logging.INFO)
+cloud_logger.addHandler(CloudLoggingHandler(cloud_logging.Client()))
+cloud_logger.addHandler(logging.StreamHandler())
+
+import tensorflow as tf
+import numpy as np
+
+xs = np.array([-1.0, 0.0, 1.0, 2.0, 3.0, 4.0], dtype=float)
+ys = np.array([-2.0, 1.0, 4.0, 7.0, 10.0, 13.0], dtype=float)
+
+model = tf.keras.Sequential([tf.keras.layers.Dense(units=1, input_shape=[1])])
+
+model.compile(optimizer=tf.keras.optimizers.SGD(), loss=tf.keras.losses.MeanSquaredError())
+
+model.fit(xs, ys, epochs=500)
+
+cloud_logger.info(str(model.predict(np.array([10.0]))))`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-14"
+    },
+    {
+      "id": "90",
+      "badgeName": "Cloud Storage: Qwik Start - Cloud Console",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `export REGION=
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Cloud%20Storage%20Qwik%20Start%20Cloud%20Console/quicklabgsp073.sh
+
+
+sudo chmod +x quicklabgsp073.sh
+
+./quicklabgsp073.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-14"
+    },
+    {
+      "id": "91",
+      "badgeName": "BigQuery: Qwik Start - Command Line",
+      "solution": "#",
+      "difficulty": "Easy",
+      "code": `curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/BigQuery%3A%20Qwik%20Start%20-%20Command%20Line/techcpsgsp071.sh
+sudo chmod +x techcpsgsp071.sh
+./techcpsgsp071.sh`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-14"
+    },
+    {
+      "id": "92",
+      "badgeName": "Looker Developer: Qwik Start",
+      "solution": "https://www.youtube.com/watch?v=wNgUf8-XfLM",
+      "difficulty": "Easy",
+      "code": `# Watch the Video`,
+      
+    
+      addedBy: "Techcps",
+      dateAdded: "2024-12-14"
     }
     
     
